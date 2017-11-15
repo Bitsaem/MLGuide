@@ -9,7 +9,7 @@
 # Stephen Marsland, 2008, 2014
 
 import numpy as np
-import pca
+from Ch6 import pca
 
 class som:
 	"""A Basic 2D Self-Organising Map

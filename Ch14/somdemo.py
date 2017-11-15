@@ -13,7 +13,7 @@
 import pylab as pl
 import numpy as np
 
-import som
+from Ch14 import som
 nNodesEdge = 8
 data = (np.random.rand(2000,2)-0.5)*2
 
